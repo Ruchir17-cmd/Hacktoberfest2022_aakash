@@ -15,7 +15,9 @@ Name: AAKASH KUMAR SAHOO<br>
 Institution/Company: GALGOTIAS UNIVERSITY<br>
 Github Username: jvm-coder<br>
 ---
-
+Name: Ruchir Agarwal<br>
+Insstitution: Manipal University<br>
+Github: Ruchir17-cmd<br>
 -----
 Name: SHARAYU MAHENDRA BANAIT<br>
 Institution/Company: GeeksForGeeks <br>
